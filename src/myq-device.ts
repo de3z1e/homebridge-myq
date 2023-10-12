@@ -4,7 +4,7 @@
  */
 import { API, HAP, PlatformAccessory } from "homebridge";
 import { getOptionFloat, getOptionNumber, getOptionValue, isOptionEnabled, myQOptions } from "./myq-options.js";
-import { myQApi, myQDevice } from "@hjdhjd/myq";
+import { myQApi, myQDevice } from "@de3z1e/myq";
 import { myQPlatform } from "./myq-platform.js";
 import util from "node:util";
 

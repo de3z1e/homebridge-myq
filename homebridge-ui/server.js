@@ -9,7 +9,7 @@
 
 import { featureOptionCategories, featureOptions, isOptionEnabled } from "../dist/myq-options.js";
 import { HomebridgePluginUiServer } from "@homebridge/plugin-ui-utils";
-import { myQApi } from "@hjdhjd/myq";
+import { myQApi } from "@de3z1e/myq";
 import util from "node:util";
 
 class PluginUiServer extends HomebridgePluginUiServer {

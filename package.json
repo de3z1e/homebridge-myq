@@ -1,20 +1,20 @@
 {
   "name": "homebridge-myq",
-  "version": "3.4.1",
+  "version": "3.4.2",
   "displayName": "Homebridge myQ",
   "description": "HomeKit integration for myQ enabled devices such as those from LiftMaster and Chamberlain.",
   "author": {
-    "name": "HJD",
-    "url": "https://github.com/hjdhjd"
+    "name": "DZ",
+    "url": "https://github.com/de3z1e"
   },
-  "homepage": "https://github.com/hjdhjd/homebridge-myq#readme",
+  "homepage": "https://github.com/de3z1e/homebridge-myq#readme",
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git://github.com/hjdhjd/homebridge-myq.git"
+    "url": "git://github.com/de3z1e/homebridge-myq.git"
   },
   "bugs": {
-    "url": "https://github.com/hjdhjd/homebridge-myq/issues"
+    "url": "https://github.com/de3z1e/homebridge-myq/issues"
   },
   "keywords": [
     "chamberlain",
@@ -59,7 +59,7 @@
     "typescript": "5.2.2"
   },
   "dependencies": {
-    "@hjdhjd/myq": "7.5.1",
+    "@de3z1e/myq": "7.5.2",
     "@homebridge/plugin-ui-utils": "0.1.0",
     "mqtt": "5.0.5"
   }

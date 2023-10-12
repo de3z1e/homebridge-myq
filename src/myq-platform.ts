@@ -7,7 +7,7 @@ import { MYQ_ACTIVE_DEVICE_REFRESH_DURATION, MYQ_ACTIVE_DEVICE_REFRESH_INTERVAL,
   PLATFORM_NAME, PLUGIN_NAME } from "./settings.js";
 import { featureOptionCategories, featureOptions, isOptionEnabled, myQOptions } from "./myq-options.js";
 import { myQAccessory } from "./myq-device.js";
-import { myQApi } from "@hjdhjd/myq";
+import { myQApi } from "@de3z1e/myq";
 import { myQGarageDoor } from "./myq-garagedoor.js";
 import { myQLamp } from "./myq-lamp.js";
 import { myQMqtt } from "./myq-mqtt.js";

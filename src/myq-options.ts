@@ -3,7 +3,7 @@
  * myq-options.ts: Feature option and type definitions for myQ.
  */
 import { MYQ_OCCUPANCY_DURATION } from "./settings.js";
-import { myQDevice } from "@hjdhjd/myq";
+import { myQDevice } from "@de3z1e/myq";
 
 // Plugin configuration options.
 export interface myQOptions {
