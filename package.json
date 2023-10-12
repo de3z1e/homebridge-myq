@@ -1,5 +1,5 @@
 {
-  "name": "homebridge-myq",
+  "name": "@de3z1e/homebridge-myq",
   "version": "3.4.2",
   "displayName": "Homebridge myQ",
   "description": "HomeKit integration for myQ enabled devices such as those from LiftMaster and Chamberlain.",
